@@ -1,0 +1,27 @@
+{
+	"name": "product-preview-card-component",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"lint:fix": "eslint src/ --fix --ext .js,.jsx, ts",
+		"lint": "eslint .",
+		"prettier:fix": "prettier --write ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/maylinmg/product-preview-card-component.git"
+	},
+	"keywords": [],
+	"author": "Maylin Marin Galeano <princesa.mmg@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/maylinmg/product-preview-card-component/issues"
+	},
+	"homepage": "https://github.com/maylinmg/product-preview-card-component#readme",
+	"devDependencies": {
+		"eslint": "^8.24.0",
+		"eslint-config-prettier": "^8.5.0",
+		"prettier": "^2.7.1"
+	}
+}
