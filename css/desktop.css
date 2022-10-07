@@ -1,0 +1,27 @@
+@media (min-width: 1024px) {
+	.section-products__perfume {
+		display: flex;
+		flex-direction: row;
+		width: 600px;
+		height: auto;
+	}
+	.section-products__header-product__figure-container {
+		width: 300px;
+	}
+	.section-products__perfume__content-section {
+		width: 300px;
+		padding: 33px;
+	}
+	.section-products__perfume__content-section__title {
+		line-height: 0.9;
+		font-size: 35px;
+		margin: 20px 0;
+	}
+	.section-products__perfume__content-section__price-container {
+		margin: 20px 0;
+	}
+
+	.section-products__perfume__content-section__description {
+		font-size: 15px;
+	}
+}
