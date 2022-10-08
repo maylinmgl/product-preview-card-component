@@ -3,7 +3,7 @@
 		display: flex;
 		flex-direction: row;
 		width: 600px;
-		height: auto;
+		height: 450px;
 	}
 	.section-products__header-product__figure-container {
 		width: 300px;
