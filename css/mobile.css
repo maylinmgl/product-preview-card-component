@@ -75,7 +75,7 @@ body {
 	color: var(--dark-cyan);
 }
 
-.section-products__perfume__content-section__price-container__discount {
+.section-products__perfume__content-section__price-container__before {
 	margin-left: 15px;
 	text-decoration: line-through;
 }
